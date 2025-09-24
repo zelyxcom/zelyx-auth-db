@@ -1,0 +1,8 @@
+﻿{
+    "private":  true,
+    "name":  "zelyx-auth-db",
+    "version":  "0.1.0",
+    "scripts":  {
+                    "start":  "echo \u0027start zelyx-auth-db\u0027"
+                }
+}
